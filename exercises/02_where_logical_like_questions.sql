@@ -1,49 +1,49 @@
--- 1. Find all customers from the city 'Toronto'.
+-- 1. Find all customers whose name starts with 'A'.
 
--- 2. List all products with a price greater than 100.
+-- 2. List all customers whose email ends with '.com'.
 
--- 3. Show orders where total_amount is less than or equal to 300.
+-- 3. Show all products with a price greater than 100.
 
--- 4. Find customers whose name starts with 'S'.
+-- 4. List all products with price less than or equal to 50.
 
--- 5. List all products where the name ends with 'er'.
+-- 5. Find all orders where total_amount is more than 500.
 
--- 6. Show orders where total_amount is between 200 and 500.
+-- 6. Show all orders placed on or after '2023-06-10'.
 
--- 7. List customers whose email contains 'gmail'.
+-- 7. Find customers whose name contains 'son'.
 
--- 8. Find products with price not equal to 50.
+-- 8. List products with name ending in 'er'.
 
--- 9. Show customers from cities other than 'Calgary'.
+-- 9. Show all customers whose email contains the word 'example'.
 
--- 10. Find orders placed after '2023-01-01'.
+-- 10. List all products where price is not equal to 699.99.
 
--- 11. Find orders placed before '2022-12-31'.
+-- 11. Find all customers not named 'Bob Smith'.
 
--- 12. List products where the name contains the word 'bag'.
+-- 12. List orders with total_amount between 100 and 800.
 
--- 13. Show customers whose name is exactly 4 characters long.
+-- 13. Show all products in category_id 1 or category_id 4.
 
--- 14. Find all customers who are from 'Ottawa' or 'Halifax'.
+-- 14. List customers who signed up after '2023-03-01'.
 
--- 15. Show products with price greater than 50 and less than 100.
+-- 15. Show all orders that were not placed by customer_id 1.
 
--- 16. List customers whose name starts with 'A' and ends with 'n'.
+-- 16. List products with names exactly 6 characters long.
 
--- 17. Show orders with total_amount greater than 400 or placed before '2023-01-01'.
+-- 17. Show all customers whose name does not start with 'D'.
 
--- 18. Find all products that do not belong to category_id 2.
+-- 18. Find all products whose name includes the word 'Book'.
 
--- 19. List customers who are not from 'Edmonton'.
+-- 19. Show orders placed before '2023-06-10' or total_amount > 1000.
 
--- 20. Show customers whose name does not start with 'M'.
+-- 20. List all order_items where price_each is not between 50 and 200.
 
--- 21. Find products that start with 'S' and have price more than 75.
+-- 21. Find order_items where quantity is greater than 1.
 
--- 22. List customers whose email ends in '.ca'.
+-- 22. List products with price between 20 and 100, inclusive.
 
--- 23. Show products with names that have exactly 6 characters.
+-- 23. Show all customers whose name includes a space character.
 
--- 24. Find orders where total_amount is not between 100 and 300.
+-- 24. Find all orders placed by customer_id 2 or customer_id 4.
 
--- 25. List products where the name has 'oo' as a substring.
+-- 25. List all order_items where product_id is not 2 and quantity = 1.

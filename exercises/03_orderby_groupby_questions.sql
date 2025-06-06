@@ -1,49 +1,49 @@
--- 1. List all products sorted by price in ascending order.
+-- 1. List all products with price > 50, sorted by price ascending.
 
--- 2. List all customers sorted by name in descending order.
+-- 2. Show all customers whose name starts with 'A', ordered alphabetically.
 
--- 3. Show all orders sorted by order_date, newest first.
+-- 3. Show orders with total_amount > 500, ordered from highest to lowest total_amount.
 
--- 4. List all products, sorted by category_id then by price (highest first).
+-- 4. Show order_items where quantity > 1, sorted by quantity descending.
 
--- 5. Show total number of orders placed.
+-- 5. List all products in category_id = 1, sorted by name.
 
--- 6. Find the average price of all products.
+-- 6. Find total number of products per category_id.
 
--- 7. Find the maximum and minimum order total_amount.
+-- 7. Count how many orders each customer has placed.
 
--- 8. Count how many customers are from each city.
+-- 8. Show the average price of products in category_id = 1.
 
--- 9. Count the number of orders placed per customer_id.
+-- 9. List all orders where total_amount is between 100 and 1000, sorted by order_date.
 
--- 10. Find the total sales (SUM of total_amount) grouped by customer_id.
+-- 10. Find number of customers created after '2023-02-01', grouped by created_at.
 
--- 11. Show the total number of products in each category.
+-- 11. Show product count per category_id, sorted by count descending.
 
--- 12. Find average price of products in each category.
+-- 12. Find number of order_items per order_id.
 
--- 13. Show each customer_id and their highest order total_amount.
+-- 13. Find the minimum and maximum price in the products table.
 
--- 14. Show the number of customers in each city, sorted by city name.
+-- 14. Show total order count per customer_id, only for customers who placed more than 1 order.
 
--- 15. List cities that have more than 2 customers.
+-- 15. Show product_id and how many times it appears in order_items.
 
--- 16. Find the total sales (SUM) per customer, only for customers who spent over 1000 in total.
+-- 16. List all products where price is NOT between 20 and 100, ordered by price.
 
--- 17. Find the number of orders per day (grouped by order_date).
+-- 17. Show orders where total_amount is < 300 OR > 1000, ordered by total_amount.
 
--- 18. List the product names and their prices, sorted by price descending.
+-- 18. Find count of customers whose name contains 'n', grouped by email domain.
 
--- 19. Show each category_id with total number of products and average price.
+-- 19. Show count of orders placed on each date.
 
--- 20. Show how many customers have names starting with 'J', grouped by city.
+-- 20. List all products where the name includes 'oo', sorted by name.
 
--- 21. List each customer_id with their number of orders, sorted from highest to lowest.
+-- 21. Show customer count per date (created_at), where date is after '2023-01-31'.
 
--- 22. Show the average total_amount per order for orders placed after '2023-01-01'.
+-- 22. Count how many order_items have price_each >= 100.
 
--- 23. Show how many products have price more than 50, grouped by category_id.
+-- 23. Show count of order_items where quantity = 1 and price_each > 50.
 
--- 24. For each city, show the total number of customers, only for cities with more than 3 customers.
+-- 24. Show average product price per category_id.
 
--- 25. List all products, sorted first by length of the name (longest to shortest), then by price ascending.
+-- 25. Show all customers where name does NOT start with 'B', sorted by name.
