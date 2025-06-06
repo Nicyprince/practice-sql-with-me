@@ -54,9 +54,12 @@ Now you're ready to start writing queries using real data!
 
 Each day includes two files:
 
-| Day | Topic                   | Questions | Answers |
-|-----|-------------------------|-----------|---------|
-| 1   | SELECT & Arithmetic Ops | [01_select_arithmetic_questions.sql](exercises/01_select_arithmetic_questions.sql) | [01_select_arithmetic_answers.sql](exercises/01_select_arithmetic_answers.sql) |
+| Day | Topic                          | Questions                                                                 | Answers                                                                  |
+|-----|--------------------------------|---------------------------------------------------------------------------|--------------------------------------------------------------------------|
+| 1   | SELECT & Arithmetic Ops        | [01_select_arithmetic_questions.sql](exercises/01_select_arithmetic_questions.sql) | [01_select_arithmetic_answers.sql](exercises/01_select_arithmetic_answers.sql) |
+| 2   | WHERE, LIKE, AND, OR, NOT      | [02_where_like_questions.sql](exercises/02_where_like_questions.sql)     | [02_where_like_answers.sql](exercises/02_where_like_answers.sql)         |
+| 3   | ORDER BY & GROUP BY            | [03_orderby_groupby_questions.sql](exercises/03_orderby_groupby_questions.sql) | [03_orderby_groupby_answers.sql](exercises/03_orderby_groupby_answers.sql) |
+
 
 More coming soon...
 
