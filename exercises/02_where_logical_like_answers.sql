@@ -12,9 +12,9 @@ WHERE email LIKE '%.com';
 
 -- 3. Show all products with a price greater than 100.
 
-SELECT * 
-FROM customers
-WHERE email LIKE '%.com';
+SELECT name
+FROM products
+WHERE price > 100;
 
 -- 4. List all products with price less than or equal to 50.
 
