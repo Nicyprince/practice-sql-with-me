@@ -1,0 +1,27 @@
+-- Day 4 SQL Exercises: HAVING vs WHERE, Aliases, LIMIT
+
+-- 1. List customer IDs that have placed more than 1 order.
+-- 2. Show product categories that have more than 2 products.
+-- 3. Show customers who placed orders totaling more than $1000.
+-- 4. Find product IDs where the average price_each in order_items is above $100.
+-- 5. Get customers who registered after '2023-03-01' and placed more than one order.
+-- 6. Select all product names with an alias Product_Name.
+-- 7. Show customer names and emails with aliases as Full_Name and Email_Address.
+-- 8. Display all order totals with alias Total_Spent.
+-- 9. Show order_id, product_id and price_each with aliases: OrderID, ProductID, UnitPrice.
+-- 10. List all order dates with alias Purchase_Date.
+-- 11. Show the first 5 customers from the table.
+-- 12. List the top 3 most expensive products.
+-- 13. Show 2 most recent orders.
+-- 14. Display the 4 cheapest products using LIMIT.
+-- 15. List the first 3 entries from the order_items table.
+-- 16. Skip the first 2 products and show the next 3.
+-- 17. Skip 1 order and show the next 2.
+-- 18. Show products ranked 4th and 5th by price.
+-- 19. Show customers ranked 2nd and 3rd alphabetically.
+-- 20. List the 2nd and 3rd cheapest items in order_items.
+-- 21. Show total number of orders per customer, display only those with more than 1 — alias as Order_Count.
+-- 22. Find categories with the average product price over $100.
+-- 23. Show all orders with total_amount over $500 and rename total_amount as Total.
+-- 24. List customer emails ending in .com, show only the first 2 results.
+-- 25. Display product names that contain the word 'Book', show only 1 result with alias Book_Product.
