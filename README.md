@@ -59,6 +59,8 @@ Each day includes two files:
 | 1   | SELECT & Arithmetic Ops        | [01_select_arithmetic_questions.sql](exercises/01_select_arithmetic_questions.sql) | [01_select_arithmetic_answers.sql](exercises/01_select_arithmetic_answers.sql) |
 | 2   | WHERE, LIKE, AND, OR, NOT      | [02_where_like_questions.sql](exercises/02_where_like_questions.sql)     | [02_where_like_answers.sql](exercises/02_where_like_answers.sql)         |
 | 3   | ORDER BY & GROUP BY            | [03_orderby_groupby_questions.sql](exercises/03_orderby_groupby_questions.sql) | [03_orderby_groupby_answers.sql](exercises/03_orderby_groupby_answers.sql) |
+| 3   | HAVING, ALIAS, LIMIT            | [04_having_alias_limit_questions.sql](exercises/04_having_alias_limit_questions.sql) | [04_having_alias_limit_answers.sql](exercises/04_having_alias_limit_answers.sql) |
+
 
 
 More coming soon...
