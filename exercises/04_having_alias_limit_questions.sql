@@ -4,7 +4,7 @@
 -- 2. Show product categories that have more than 2 products.
 -- 3. Show customers who placed orders totaling more than $1000.
 -- 4. Find product IDs where the average price_each in order_items is above $100.
--- 5. Get customers who registered after '2023-03-01' and placed more than one order.
+-- 5. Get customer IDs who have placed more than one order after '2023-03-01'
 -- 6. Select all product names with an alias Product_Name.
 -- 7. Show customer names and emails with aliases as Full_Name and Email_Address.
 -- 8. Display all order totals with alias Total_Spent.
