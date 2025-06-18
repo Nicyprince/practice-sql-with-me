@@ -1,25 +1,25 @@
-# 📘 SQL Learning Journey – `store_db`
+# SQL Learning Journey – `store_db`
 
 Welcome to my SQL learning journey! 🚀  
 This repository documents my daily SQL practice using a custom fictional database: **`store_db`** — designed to simulate a retail business.
 
 ---
 
-## 📦 What’s Inside
+## What’s Inside
 
 - A fully structured SQL database (`store_db`)
 - Daily SQL exercises with:
-  - 📄 Question-only files for self-practice
-  - ✅ Answer files with solutions and comments
+  -  Question-only files for self-practice
+  -  Answer files with solutions and comments
 - Beginner to advanced topics (updated regularly)
 
 ---
 
-## 🧑‍💻 How You Can Follow Along
+## How You Can Follow Along
 
 Want to learn SQL with me? Here's how you can set it up on your own system:
 
-### ✅ Step 1: Install MySQL
+### Step 1: Install MySQL
 
 Install the following:
 
@@ -28,7 +28,7 @@ Install the following:
 
 ---
 
-### ✅ Step 2: Create the Database
+### Step 2: Create the Database
 
 Open your SQL terminal or GUI tool and run:
 
@@ -39,7 +39,7 @@ USE store_db;
 
 ---
 
-### ✅ Step 3: Load the Tables and Sample Data
+### Step 3: Load the Tables and Sample Data
 
 1. Go to the `database/` folder in this repo.
 2. Copy and run the contents of:
@@ -50,7 +50,7 @@ Now you're ready to start writing queries using real data!
 
 ---
 
-## 📅 Daily Practice Structure
+## Daily Practice Structure
 
 Each day includes two files:
 
@@ -67,7 +67,7 @@ More coming soon...
 
 ---
 
-## 💡 Why This Repo?
+##  Why This Repo?
 
 - Practice SQL in a hands-on, real-world setting
 - Build strong foundational query skills
@@ -75,7 +75,7 @@ More coming soon...
 
 ---
 
-## 🛠 Tech Used
+## Tech Used
 
 - SQL (MySQL)
 - Git & GitHub
@@ -83,14 +83,9 @@ More coming soon...
 
 ---
 
-## 🙋‍♀️ About Me
+## About Me
 
 I'm publicly documenting my SQL journey to stay consistent and help others learn by example.  
 Feel free to fork this repo and follow along!
 
 ---
-
-## ⭐ Like This Project?
-
-If you find it helpful, star ⭐ this repo!  
-More exercises and projects are on the way!
